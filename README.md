@@ -1,6 +1,6 @@
 [![MasterHead](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif)](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif)
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://www.weblineindia.com/wp-content/uploads/2019/01/react-native-build-mobile-apps-with-increased-developer-productivity.gif" />
 
 - 🔭 I’m currently working on [The Healthy Indian Project](https://thip-admin.onrender.com/)
