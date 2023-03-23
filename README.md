@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React , Mern**
 
-- 📫 How to reach me **chaurasiyavinay24@gmail.com**
+- 📫 How to reach me **chaurasiyavinay24@gmail.com** 
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1_-1fJ4XsDur9imWUStb0MW5t-2JVo6dP/view?usp=sharing
 
