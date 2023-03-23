@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chaurasiyavinay24@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFUeqWgGag/KsRqsqCngsVCHixX9HR-3A/view](https://www.canva.com/design/DAFUeqWgGag/KsRqsqCngsVCHixX9HR-3A/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1_-1fJ4XsDur9imWUStb0MW5t-2JVo6dP/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
