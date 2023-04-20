@@ -3,15 +3,15 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://www.weblineindia.com/wp-content/uploads/2019/01/react-native-build-mobile-apps-with-increased-developer-productivity.gif" />
 
-- 🔭 I’m currently working on [The Healthy Indian Project](https://thip-admin.onrender.com/)
+<!-- - 🔭 I’m currently working on [The Healthy Indian Project](https://thip-admin.onrender.com/) -->
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinayChaurasiya96/My-Portfolio.git](https://github.com/VinayChaurasiya96/My-Portfolio.git)
+- 👨‍💻 All of my projects are available at https://vinaychaurasiya.onrender.com/
 
-- 💬 Ask me about **React , Mern**
+- 💬 Ask me about **React, Express JS, MongoDb, DSA**
 
-- 📫 How to reach me **chaurasiyavinay24@gmail.com** 
+- 📫 How to reach me **chaurasiyavinay24@gmail.com, 7089051886, 8349081886** 
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1_-1fJ4XsDur9imWUStb0MW5t-2JVo6dP/view?usp=sharing
 
